@@ -63,7 +63,7 @@ int** rotate(int**a,int m, int n){
         }
         cout<<endl;
      }
-
+    
 
     return 0;
  }
